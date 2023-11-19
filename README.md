@@ -12,6 +12,11 @@ Selamat datang di tantangan soal! Kami sangat bersemangat melihat bagaimana Anda
 
 4. **Soal Coding**: Tulis kode program yang efisien untuk menyelesaikan masalah tertentu.
 
+    ```python
+    def hitung_jumlah(angka1, angka2):
+        return angka1 + angka2
+    ```
+
 5. **Soal Pemecahan Masalah**: Berikan solusi untuk suatu masalah dunia nyata.
 
 6. **Soal Rancangan Produk**: Gambarkan rancangan atau konsep produk yang inovatif.
