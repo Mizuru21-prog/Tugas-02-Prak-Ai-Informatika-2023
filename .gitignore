@@ -9,3 +9,6 @@
 *.blg
 *.log
 *.tex
+
+# build
+build.sh
