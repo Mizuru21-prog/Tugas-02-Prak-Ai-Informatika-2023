@@ -1,3 +1,11 @@
 /.venv
 /01-Jawaban
 /Card Fraud Detection/creditcard_2023.csv
+
+
+# Intruksi
+*.aux
+*.bbl
+*.blg
+*.log
+*.tex
