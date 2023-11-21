@@ -1,45 +1,37 @@
-# Selamat Mengerjakan 8 Soal! 🚀
+# Tugas 02 - Praktikum AI 2023! 🚀
 
-Selamat datang di tantangan soal! Kami sangat bersemangat melihat bagaimana Anda menyelesaikan 8 soal menarik yang telah disiapkan. Jangan ragu untuk berkreasi, berpikir kritis, dan menikmati setiap momennya.
+Selamat datang di praktikum AI! Ini merupakan sambutan sebelum kalian mengerjakan soal-soal yang diberikan sesuai hasil undian dari setiap kelompok. Berikut beberapa **intruksi** dalam mengerjakan tugas 2.
 
-## Daftar Soal
+## Intruksi
 
-1. **Soal Kreatifitas**: Pikirkan ide kreatif yang belum pernah terpikirkan sebelumnya.
+1. Setiap kelompok akan mengerjakan satu data yang disajikan.
 
-2. **Soal Logika**: Tebak-tebakan logika yang menguji ketajaman pikiran Anda.
+2. Untuk data yang akan digunakan oleh kelompok dibagikan oleh asisten.
 
-3. **Soal Matematika**: Selesaikan persoalan matematika yang menantang.
+3. Kerjakan soal sesuai nomor yang didapatkan.
 
-4. **Soal Coding**: Tulis kode program yang efisien untuk menyelesaikan masalah tertentu.
+4. Soal akan dikerjakan langsung di lab.
 
-    ```python
-    def hitung_jumlah(angka1, angka2):
-        return angka1 + angka2
-    ```
+## Pengumpulan
 
-5. **Soal Pemecahan Masalah**: Berikan solusi untuk suatu masalah dunia nyata.
-
-6. **Soal Rancangan Produk**: Gambarkan rancangan atau konsep produk yang inovatif.
-
-7. **Soal Kepemimpinan**: Bagaimana Anda akan memimpin dan memotivasi tim dalam situasi tertentu?
-
-8. **Soal Refleksi**: Ceritakan pengalaman Anda yang paling berkesan dan pelajaran yang Anda ambil dari itu.
-
-## Cara Menyelesaikan
-
-1. Pahami setiap soal dengan seksama.
-2. Berikan jawaban atau solusi yang terbaik menurut Anda.
-3. Gunakan kreativitas dan inovasi.
-4. Nikmati setiap prosesnya!
+1. Yang di kumpulkan yaitu sebuah file zip yang berisikan:
+    a. screenshot dari environtment yang telah dibuat dalam format gambar.
+    b. code dalam format .ipynb yang telah di jalankan
+    c. hasil analysis requirements.txt. 
+2. Hanya ketua tim yang mengumpulkan
 
 ## Catatan Penting
 
+- Pastikan anggota kelompok datang semua.
+- Pastikan untuk datang tepat waktu.
 - Pastikan Anda membaca setiap soal dengan teliti sebelum memulai.
 - Berikan jawaban yang jelas dan terstruktur.
 - Jangan ragu untuk bertanya jika ada ketidakjelasan.
 
+
 ## Penilaian
 
-Soal-soal ini dinilai berdasarkan kreativitas, kejelasan, dan pemahaman konsep. Ingatlah, lebih dari sekadar jawaban, kami ingin melihat bagaimana Anda berpikir dan memecahkan masalah.
-
-Semoga Anda menikmati tantangan ini dan memberikan yang terbaik! Good luck! 🌟
+- Menyelesaikan task 50%
+- Kerja sama 30%
+- Penulisan Interpretasi 15%
+- Penilaian aslab 5%
